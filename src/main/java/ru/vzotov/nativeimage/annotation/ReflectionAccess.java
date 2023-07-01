@@ -1,4 +1,4 @@
-package ru.vzotov.hb.nativeimage;
+package ru.vzotov.nativeimage.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
